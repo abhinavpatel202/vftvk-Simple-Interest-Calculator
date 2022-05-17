@@ -12,7 +12,7 @@ function compute()
 
 }
 
-function refreshSlider(){
+function updateRate(){
 rate.value
 document.getElementById("rateLabel").innerText = rate.value + "%"}
 
